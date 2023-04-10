@@ -8,9 +8,10 @@ Tekton iOS Technical test
 3. Pod install
 4. Run
 
-## Proyect Features
+## Project Features
 
 - Language localization 
 - GPS tracking bike user ride + time + initial address + final address (GeoManager)
 - Modal Animation transitions
 - MVVM + Coordinator Pattern
+- Pods: Snapkit + Google Maps
