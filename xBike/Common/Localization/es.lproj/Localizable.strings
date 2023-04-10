@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+
+  Created by Francisco Obarrio on 04/01/2023.
+  Copyright © 2023 Francisco Obarrio. All rights reserved.
+*/
+
+// OnBoarding
+"OnBoardingPage1" = "Extremadamente facil de usar.";
+"OnBoardingPage2" = "Haz un seguimiento de tu tiempo y distancia.";
+"OnBoardingPage3" = "¡Observa tu progreso y desafíate a ti mismo!";
+
+// Pestaña principal
+"TabCurrentRide" = "Paseo Actual";
+"TabMyProgress" = "Mi Progreso";
+
+// Botones
+"ButtonOK" = "Aceptar";
+"ButtonDELETE" = "Eliminar";
+"ButtonSTORE" = "Guardar";
+"ButtonSTART" = "Iniciar";
+"ButtonSTOP" = "Detener";
+
+// Modal de éxito
+"ModalSuccessDescription" = "¡Tu progreso ha sido guardado correctamente!";
+
+// Modal Tu tiempo
+"ModalYourTimeTitle" = "Tu tiempo fue";
+"ModalYourTimeDistance" = "Distancia";
+
+// Título de navegación para Paseo Actual
+"CurrenTimeNavigationTitle" = "Paseo Actual";
+
+// Título de navegación para Mi Progreso
+"ProgressNavigationTitle" = "Mi Progreso";
